@@ -31966,9 +31966,21 @@ html body .offset-top-124 {
     margin-top: 10px;
 }
 
+
+
+
+/* update - padding: 35px 0; */
 .rd-navbar-logo-center.rd-navbar-static .rd-navbar-top-block {
-    padding: 35px 0;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 10px;
+    padding-left: 0px;
 }
+
+
+
+
+
 
 .rd-navbar-logo-center.rd-navbar-static .rd-navbar-search-toggle {
     display: none;
@@ -42562,4 +42574,15 @@ html[class*="ie"] .dtp-hand, html[class*="ie"] .dtp-hour-hand {
 
 html:not(.ie-11):not(.ios) .parallax-disabled {
     background-attachment: fixed;
+}
+
+
+.logo {
+    height: 40px;
+}
+
+
+@media (min-width: 1200px) {
+    .logo { height:100px; }
+
 }
