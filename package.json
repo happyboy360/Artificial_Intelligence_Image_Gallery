@@ -1,9 +1,9 @@
 {
   "type": "module",
-  "name": "artificial_intelligence_image_gallery",
+  "name": "artificial-intelligence-image-gallery",
   "version": "1.0.0",
   "description": "ai image gallery",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/happyboy360/Artificial_Intelligence_Image_Gallery.git"
   },
   "author": "",
-  "license": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/happyboy360/Artificial_Intelligence_Image_Gallery/issues"
   },
@@ -21,6 +21,7 @@
     "node-fetch": "^3.3.1"
   },
   "dependencies": {
-    "mongodb": "^5.1.0"
+    "mongodb": "^5.1.0",
+    "netlify-cli": "^13.2.2"
   }
 }
