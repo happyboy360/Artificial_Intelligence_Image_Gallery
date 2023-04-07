@@ -2,7 +2,7 @@
   "type": "module",
   "name": "artificial_intelligence_image_gallery",
   "version": "1.0.0",
-  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "description": "ai image gallery",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/happyboy360/Artificial_Intelligence_Image_Gallery.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "",
   "bugs": {
     "url": "https://github.com/happyboy360/Artificial_Intelligence_Image_Gallery/issues"
   },
