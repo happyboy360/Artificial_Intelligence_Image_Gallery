@@ -1,4 +1,25 @@
 {
+  "type": "module",
+  "name": "artificial_intelligence_image_gallery",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/happyboy360/Artificial_Intelligence_Image_Gallery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happyboy360/Artificial_Intelligence_Image_Gallery/issues"
+  },
+  "homepage": "https://github.com/happyboy360/Artificial_Intelligence_Image_Gallery/",
+  "devDependencies": {
+    "node-fetch": "^3.3.1"
+  },
   "dependencies": {
     "mongodb": "^5.1.0"
   }
