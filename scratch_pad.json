@@ -1,0 +1,79 @@
+{
+  "_id": "10030955",
+  "listing_url": "https://www.airbnb.com/rooms/10030955",
+  "name": "Apt Linda Vista Lagoa - Rio",
+  "summary": "Quarto com vista para a Lagoa Rodrigo de Freitas, cartão postal do Rio de Janeiro. Linda Vista.  1 Quarto e 1 banheiro  Amplo, arejado, vaga na garagem. Prédio com piscina, sauna e playground.  Fácil acesso, próximo da praia e shoppings.",
+  "space": "",
+  "description": "Quarto com vista para a Lagoa Rodrigo de Freitas, cartão postal do Rio de Janeiro. Linda Vista.  1 Quarto e 1 banheiro  Amplo, arejado, vaga na garagem. Prédio com piscina, sauna e playground.  Fácil acesso, próximo da praia e shoppings.",
+  "neighborhood_overview": "",
+  "notes": "",
+  "transit": "",
+  "access": "",
+  "interaction": "",
+  "house_rules": "",
+  "property_type": "Apartment",
+  "room_type": "Private room",
+  "bed_type": "Real Bed",
+  "minimum_nights": "1",
+  "maximum_nights": "1125",
+  "cancellation_policy": "flexible",
+  "last_scraped": { "$date": { "$numberLong": "1549861200000" } },
+  "calendar_last_scraped": { "$date": { "$numberLong": "1549861200000" } },
+  "accommodates": { "$numberInt": "2" },
+  "bedrooms": { "$numberInt": "1" },
+  "beds": { "$numberInt": "1" },
+  "number_of_reviews": { "$numberInt": "0" },
+  "bathrooms": { "$numberDecimal": "2.0" },
+  "amenities": [ "TV", "Cable TV", "Internet", "Wifi", "Air conditioning", "Pool", "Kitchen", "Free parking on premises", "Doorman", "Gym", "Elevator", "Buzzer/wireless intercom", "Family/kid friendly", "Washer", "Essentials", "24-hour check-in" ],
+  "price": { "$numberDecimal": "701.00" },
+  "security_deposit": { "$numberDecimal": "1000.00" },
+  "cleaning_fee": { "$numberDecimal": "250.00" },
+  "extra_people": { "$numberDecimal": "0.00" },
+  "guests_included": { "$numberDecimal": "1" },
+  "images": {
+    "thumbnail_url": "",
+    "medium_url": "",
+    "picture_url": "https://a0.muscache.com/im/pictures/59c516bd-c7c3-4dae-8625-aff5f55ece53.jpg?aki_policy=large",
+    "xl_picture_url": ""
+  },
+  "host": {
+    "host_id": "51496939",
+    "host_url": "https://www.airbnb.com/users/show/51496939",
+    "host_name": "Livia",
+    "host_location": "BR",
+    "host_about": "",
+    "host_thumbnail_url": "https://a0.muscache.com/im/pictures/b7911710-9088-451d-a27b-62ad2fc2eac0.jpg?aki_policy=profile_small",
+    "host_picture_url": "https://a0.muscache.com/im/pictures/b7911710-9088-451d-a27b-62ad2fc2eac0.jpg?aki_policy=profile_x_medium",
+    "host_neighbourhood": "Lagoa",
+    "host_is_superhost": false,
+    "host_has_profile_pic": true,
+    "host_identity_verified": false,
+    "host_listings_count": { "$numberInt": "1" },
+    "host_total_listings_count": { "$numberInt": "1" },
+    "host_verifications": [ "email", "phone", "jumio", "government_id" ]
+  },
+  "address": {
+    "street": "Rio de Janeiro, Rio de Janeiro, Brazil",
+    "suburb": "Lagoa",
+    "government_area": "Lagoa",
+    "market": "Rio De Janeiro",
+    "country": "Brazil",
+    "country_code": "BR",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+        { "$numberDouble": "-43.205047082633435" },
+        { "$numberDouble": "-22.971950988341874" }
+      ],
+      "is_location_exact": true
+    }
+  },
+  "availability": {
+    "availability_30": { "$numberInt": "28" },
+    "availability_60": { "$numberInt": "58" },
+    "availability_90": { "$numberInt": "88" },
+    "availability_365": { "$numberInt": "363" }
+  },
+  "review_scores": {},
+  "reviews": []
+}

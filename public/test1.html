@@ -12,6 +12,9 @@
 <body>
     <h1>MongoDB with Netlify Functions</h1>
     <ul id="movies"></ul>
+    <br />
+    <br />
+    <ul id="blog_posts"></ul>
     <script>
         (async () => {
             let results = await fetch("/.netlify/functions/get_movies").then(response => response.json());
@@ -21,6 +24,17 @@
                 document.getElementById("movies").appendChild(listItem);
             });
         })();
+        (async () => {
+            let results = await fetch("/.netlify/functions/get_blog_posts").then(response => response.json());
+            results.forEach(result => {
+                const listItem = document.createElement("li");
+                listItem.innerHTML = result.body;
+                document.getElementById("blog_posts").appendChild(listItem);
+            });
+        })();
     </script>
 </body>
 </html>
+
+
+
